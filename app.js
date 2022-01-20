@@ -23,7 +23,7 @@ function initiate(e){
     //    var arr=news.responseText;
     // }
     // news.send();
-   
+   input.focus();
 
 if(i<=arr.length-1){
     word.textContent=`${arr[i]}`
